@@ -31,7 +31,7 @@
             _sessionSecret: "localhostSession",
             _active: true
         },
-        'mototaxi.herokuapp.com': {
+        'taximoto.herokuapp.com': {
             _apiServerPath: '/home/hung/WebstormProjects/bell/apiServer',
             _db: process.env.MONGOLAB_URI,
             _tokenScrete: "token1",

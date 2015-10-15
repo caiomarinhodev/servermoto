@@ -962,7 +962,7 @@
                     _sessionSecret: "token2",
                     _active: true
                 },
-                'mototaxi.herokuapp.com': {
+                'taximoto.herokuapp.com': {
                     _db: process.env.MONGOLAB_URI,
                     _tokenScrete: "token3",
                     _cookieSecret: "cookie3",
